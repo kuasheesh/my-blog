@@ -87,6 +87,9 @@ $$Y = A (u_K K)^a (u_N N)^{1-a}$$
 ### **5. Modern Classical View (DSGE)**
 - Acknowledging that productivity isn't the _only_ driver, modern models are called **DSGE (Dynamic Stochastic General Equilibrium)**.
 - These models incorporate both productivity shocks and other disturbances (like fiscal policy or war) into the market-clearing framework.
+
+<img width="1322" height="766" alt="image" src="https://github.com/user-attachments/assets/38f7643a-9453-44a9-8785-43cdae9caf75" />
+
  
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
