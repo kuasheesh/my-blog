@@ -5,48 +5,35 @@ categories:
   - blog
 tags:
 ---
-## Algebraic AD-AS Model
-1. The Aggregate Demand (AD) Curve
-Derived from the intersection of IS and LM curves.
+# The Algebraic AD–AS Model
 
-Derivation: Setting IS and LM equations equal and solving for output ($Y$):  (Eq. 9.B.24)
+### 1. The Aggregate Demand (AD) Curve
+* **Definition:** The AD curve represents the level of output ($Y$) where the IS curve (goods market) and LM curve (asset market) intersect for any given price level ($P$).
+* **Derivation:** Found by equating the interest rate ($r$) from the algebraic IS and LM equations and solving for $Y$.
+* **The Equation:**
+    $$
+    Y = \frac{\alpha_{IS} - \alpha_{LM} + (1/\beta_{LM})(M/P)}{\beta_{IS} + \beta_{LM}}
+    $$
+    *(Note: This represents the intersection where output is a function of real money supply and market intercepts.)*
+* **Key Characteristics:**
+    * **Slope:** The curve slopes downward. As the price level ($P$) rises, real money supply ($M/P$) falls, reducing aggregate output demanded ($Y$).
+    * **Shifts:**
+        * **IS Shifts:** Expansionary fiscal policy (e.g., increased government purchases) shifts the IS curve up/right, shifting AD up/right.
+        * **LM Shifts:** Expansionary monetary policy (increased nominal money supply, $M$) shifts the LM curve down/right, shifting AD up/right.
 
-Properties:
+### 2. The Aggregate Supply Curves
+* **Short-Run Aggregate Supply (SRAS):**
+    * Firms supply whatever output is demanded at a fixed price level.
+    * **Equation:** Horizontal line where $P = P_{sr}$.
+* **Long-Run Aggregate Supply (LRAS):**
+    * Output is fixed at the full-employment level, regardless of price.
+    * **Equation:** Vertical line where $Y = \bar{Y}$.
 
-• Slope: Downward sloping. $Y$ is a decreasing function of Price ($P$) (assuming constant Money Supply $M$).
-
-• Intercepts/Shifts:
-
-  • Numerator represents the intercept difference ($\alpha_{IS} - \alpha_{LM}$).
-
-  • Shift Right: Increase in Gov purchases (shifts IS up/right) or Increase in $M$ (shifts LM down/right).
-
-2. The Aggregate Supply (AS) Curves
-Short-Run (SRAS)
-
-Firms supply output at a fixed price level ($P_{sr}$).
-
-• Equation: 
-
-• Shape: Horizontal line.
-
-Long-Run (LRAS)
-
-Vertical line at full-employment output ($\bar{Y}$).
-
-• Equation: 
-
-3. Equilibrium
-Short-Run Equilibrium
-
-Intersection of AD and SRAS. Substitute SRAS ($P_{sr}$) into the AD equation: 
-
-Long-Run Equilibrium
-
-Intersection of AD and LRAS. Occurs where labor, goods, and asset markets are all in equilibrium.
-
-• Output is fixed at 
-
-• Price Level ($P$): Solved by equating AD to LRAS ($\bar{Y}$):  (Eq. 9.B.28 - derived from rearranging AD for P)
-
-#macroeconomics #AD-AS #algebraic-model #formulas
+### 3. Equilibrium Solutions
+* **Short-Run Equilibrium:**
+    * Occurs at the intersection of **AD** and **SRAS**.
+    * **Calculation:** Substitute the fixed price ($P_{sr}$) into the AD equation to solve for output ($Y$).
+* **Long-Run Equilibrium:**
+    * Occurs at the intersection of **AD** and **LRAS** (where markets for labor, goods, and assets all clear).
+    * **Output:** Fixed at $\bar{Y}$.
+    * **Price Level:** The price level ($P$) is endogenous. It is found by setting the AD equation equal to $\bar{Y}$ and solving for $P$. This ensures the price level adjusts to align demand with full-employment output.
