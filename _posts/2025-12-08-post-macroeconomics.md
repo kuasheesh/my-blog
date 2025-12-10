@@ -297,13 +297,18 @@ While minimum wages and unions play a small role in the U.S., the primary explan
 - S-shaped curve relating Real Wage ($w$) to Worker Effort ($E$).
     
 - Firms choose the **Efficiency Wage ($w^*$)**: The wage that maximizes effort per dollar paid (tangent line from origin).
-    
+
+<img width="800" height="566" alt="image" src="https://github.com/user-attachments/assets/c335b62c-f2e3-4866-baa7-36fab50266ff" />
+
 
 ### **Labor Market Consequences**
 
 - **Rigidity:** Firms keep wages at $w^*$ regardless of labor supply.
     
 - **Unemployment:** At $w^*$, Labor Supply ($NS$) > Labor Demand ($ND$). This creates persistent unemployment even at "full employment" equilibrium.
+
+  <img width="810" height="566" alt="image" src="https://github.com/user-attachments/assets/7343b387-fac0-4a0e-b898-88908053e1d4" />
+
     
 - **The FE Line:** In the Keynesian model, the FE line (Full Employment) is vertical. Crucially, **changes in Labor Supply do not shift the FE line** because employment is fixed by firms' demand at the efficiency wage.
     
@@ -359,6 +364,9 @@ Because prices are sticky, the economy does not stay on the FE line in the short
     3. Real money supply ($M/P$) falls, shifting LM back to $LM_1$.
         
     4. **Result:** Money is **Neutral** (Only prices rise).
+
+  <img width="815" height="1001" alt="image" src="https://github.com/user-attachments/assets/b6869981-7d72-42b7-9a1b-001ba50bba0b" />
+
         
 
 ### **B. Fiscal Policy ($G \uparrow$ or $T \downarrow$)**
@@ -378,6 +386,9 @@ Because prices are sticky, the economy does not stay on the FE line in the short
     2. LM shifts left.
         
     3. Economy returns to full employment ($\bar{Y}$), but with a **higher real interest rate** (Crowding Out).
+ 
+  <img width="791" height="988" alt="image" src="https://github.com/user-attachments/assets/95e514a5-b365-403e-a230-7ca63ded7331" />
+
         
 
 ---
@@ -408,6 +419,9 @@ Keynesians favor active policy ("Aggregate Demand Management") to smooth cycles.
 
 **Trade-off:** Active policy restores full employment faster but results in a **higher price level** than doing nothing.
 
+<img width="808" height="567" alt="image" src="https://github.com/user-attachments/assets/68a523ec-5c2f-43ea-92f5-f0b14f822476" />
+
+
 ### **The Problem of Supply Shocks (Stagflation)**
 
 - **Event:** Adverse supply shock (e.g., Oil Price Spike).
@@ -421,6 +435,246 @@ Keynesians favor active policy ("Aggregate Demand Management") to smooth cycles.
     - Increase AD? $\rightarrow$ Reduces unemployment but **worsens inflation**.
         
     - Decrease AD? $\rightarrow$ Curbs inflation but **worsens unemployment**.
+ 
+  <img width="754" height="553" alt="image" src="https://github.com/user-attachments/assets/d991de67-6160-493e-8802-eb87bac59f1d" />
+
+<img width="1112" height="632" alt="image" src="https://github.com/user-attachments/assets/45739bca-e83c-4365-9169-10883be7b220" />
+
+# 📉 The Great Trade-Off Illusion: A Field Guide to Unemployment & Inflation
+
+## Part 1: The Rise and Fall of the Simple Phillips Curve
+
+### 1. The "Menu" Era (1958 – 1969)
+
+**The Origin Story:** In 1958, economist **A.W. Phillips** looked at British data and found a historical pattern:
+
+- **High Wage Growth** $\rightarrow$ **Low Unemployment**
+    
+- **Low Wage Growth** $\rightarrow$ **High Unemployment**
+    
+
+Economists later swapped "Wage Growth" for **Inflation** and created the **Phillips Curve**.
+
+The 1960s Evidence:
+
+During the 1960s in the US, the data plotted a perfect downward slope.
+
+- **The Policy Implication:** Policymakers believed they had a "menu" of choices.
+    
+    - _Want lower unemployment?_ Just order a little more inflation.
+        
+    - _Want stable prices?_ Accept higher unemployment.
+        
+
+### 2. The Breakdown (1970 – Present)
+
+The 1970s Stagflation:
+
+The relationship exploded. The US experienced Stagflation:
+
+- High Inflation + High Unemployment (simultaneously).
+    
+- _Example:_ 1975 saw 8.5% unemployment AND 7.1% inflation.
+    
+- **Conclusion:** The simple trade-off vanished. The data points from 1970–2021 look like a random scatter plot, not a neat curve.
+    
+
+---
+
+## Part 2: The Plot Twist — Expectations (The Friedman-Phelps Theory)
+
+While the Phillips curve was working in the 60s, Milton Friedman and Edmund Phelps predicted it would fail. They introduced the **Expectations-Augmented Phillips Curve**.
+
+### The Core Concept
+
+There is no trade-off between _inflation_ and unemployment. The trade-off is between **Unanticipated Inflation** and **Cyclical Unemployment**.
+
+- **Scenario A (The Steady State):** If money supply grows at 10% and everyone _expects_ prices to rise by 10%, the economy stays at full employment. No trade-off.
+    
+- **Scenario B (The Surprise):** If the Fed increases money supply by 20% (surprise!), prices rise faster than expected. Real wages fall (temporarily), firms hire more, and unemployment drops below the natural rate.
+    
+
+### 🧪 The Master Formula
+
+$$\pi = \pi^e - h(u - \bar{u})$$
+
+**Where:**
+
+- $\pi$ = Actual Inflation
+    
+- $\pi^e$ = Expected Inflation
+    
+- $h$ = Slope (responsiveness of inflation to unemployment)
+    
+- $u$ = Actual Unemployment
+    
+- $\bar{u}$ = Natural Rate of Unemployment (Full employment)
+    
+- $(u - \bar{u})$ = Cyclical Unemployment
+    
+
+**Translation:**
+
+> Actual inflation exceeds expected inflation **only if** actual unemployment is lower than the natural rate.
+
+### Why the Curve Shifts
+
+The Phillips curve isn't fixed; it moves based on two "invisible" variables:
+
+1. **Change in Expected Inflation ($\pi^e$):**
+    
+    - If people expect higher inflation, the _entire_ Phillips curve shifts **UP** and to the **RIGHT**.
+        
+    - _Real World:_ In the 70s, people expected high inflation, so even high unemployment didn't bring prices down.
+        
+2. **Change in Natural Rate of Unemployment ($\bar{u}$):**
+    
+    - If the natural rate increases, the curve shifts **UP** and to the **RIGHT**.
+        
+    - _Supply Shocks:_ An oil crisis raises the natural rate _and_ expectations, causing a massive shift (Stagflation).
+        
+
+---
+
+## Part 3: Policy & The Long Run
+
+### Can we "Game" the System?
+
+- **Classical View:** No. People have **Rational Expectations**. They adjust quickly. If the government tries to boost money supply, people instantly raise price expectations. No drop in unemployment occurs.
+    
+- **Keynesian View:** Yes, but only temporarily. Due to **Sticky Prices/Wages**, it takes time for information to filter through. You can trick the economy for a short while.
+    
+
+### 🧠 The Lucas Critique (Deep Dive)
+
+#### The "Tennis Court" Analogy
+
+Imagine a tennis player, **"RN"** (a nod to Rafael Nadal), who is a legend at the **French Open**.
+
+- **The Data:** History shows RN wins 100% of his matches at the French Open.
+    
+- ** The Bet:** Based on this data, betting on RN seems like "free money."
+    
+- **The Policy Change:** Suddenly, the tournament organizers replace the **Clay** surface with **Grass**.
+    
+- **The Critique:** If you use the historical data (Clay) to predict the future (Grass), you will lose your money. RN plays differently on grass.
+#### The Economic Meaning
+
+**Robert Lucas (1976)** argued that economists were making the "Tennis Court Mistake" with the Phillips Curve.
+
+- **The Mistake:** Policymakers looked at the 1960s data (High Inflation = Low Unemployment) and thought, "Great, if we change the rules and print more money, unemployment will go down."
+    
+- **The Reality:** Just like the tennis player adapts to the grass court, people adapt to the new policy. When the government prints money, people don't work harder; they just raise their prices. The historical correlation breaks because the "rules of the game" changed.
+
+### The Long-Run Phillips Curve 
+
+In the long run, expectations catch up ($\pi = \pi^e$).
+
+- The curve is a **Vertical Line** at the Natural Rate of Unemployment ($\bar{u}$).
+    
+- **Implication:** Money is neutral in the long run. You cannot print your way to permanent prosperity.
+    
+
+---
+
+## Part 4: The Costs of the Two Evils 
+
+### 1. The Cost of Unemployment
+
+- **Output Loss (Okun's Law):** 1% rise in cyclical unemployment $\approx$ 2% loss of GDP.
+    
+- **Distribution:** Hits the poor and minorities hardest.
+    
+- **Psychological:** Loss of skills, self-esteem, health issues.
+    
+- **Hysteresis:** Long-term unemployment makes it harder to ever find a job again.
+    
+
+**The Mystery of the Natural Rate:**
+
+- It changes over time!
+    
+- _1960s-70s:_ Rose (Baby boomers/women entering workforce).
+    
+- _1980s-90s:_ Fell (Workforce aged/matured).
+    
+- _Problem:_ It is very hard to measure precisely (Confidence interval is wide: 4.8% to 6.6%).
+    
+
+### 2. The Cost of Inflation
+
+**If Perfectly Anticipated:**
+
+- **Shoe Leather Costs:** Time/effort spent minimizing cash holdings.
+    
+- **Menu Costs:** Resources spent changing listed prices.
+    
+
+**If Unanticipated (The Real Danger):**
+
+- **Wealth Transfer:** Robs creditors (lenders), rewards debtors (borrowers).
+    
+- **Signal Distortion:** Prices are signals. Inflation creates static, making it hard to tell if _relative_ prices are changing (is bread expensive, or is money just worth less?).
+    
+- **Hyperinflation:** Total collapse of tax collection and market efficiency (e.g., Zimbabwe, Hungary).
+    
+
+**The Opposite Danger: Deflation**
+
+- Limits Central Bank power (cannot lower interest rates below zero).
+    
+- Increases debt burden on borrowers.
+    
+
+---
+
+## Part 5: Fighting Inflation
+
+To stop inflation, you must slow money growth. But this usually causes a recession. The key is **Expectations**.
+
+If the government wants to kill inflation, it has to cause a recession. The **Sacrifice Ratio** is the "price tag" for that recession. It calculates exactly how much economic pain (lost GDP) we must endure to buy lower inflation.
+### The Sacrifice Ratio
+
+$$\text{Sacrifice Ratio} = \frac{\text{Percentage of Year's GDP Lost}}{\text{Percentage Point Reduction in Inflation}}$$
+
+- _US Experience (Early 80s):_ To lower inflation by ~9%, the US lost ~16% of GDP. Sacrifice Ratio $\approx$ 1.83.
+    
+- _Germany:_ Ratio was nearly 3.0 (Very costly).
+    
+- _Why the difference?_ rigid labor markets increase the cost.
+    
+
+### Strategies to Disinflate
+
+1. **Cold Turkey:** Rapid shock.
+    
+    - _Pro:_ Can shatter inflation expectations quickly.
+        
+    - _Con:_ Massive initial unemployment.
+        
+2. **Gradualism:** Slow reduction.
+    
+    - _Pro:_ Avoids massive spike in unemployment.
+        
+    - _Con:_ Expectations might not change if people don't believe the government.
+        
+3. **Wage-Price Controls:** (e.g., Nixon 1971).
+    
+    - _Result:_ Usually fails. Causes shortages and distortions. Inflation returns when controls end.
+        
+
+### 🏆 The Holy Grail: Credibility
+
+If the Central Bank is **Credible** (people believe they will fight inflation no matter what), expectations drop faster ($\pi^e \downarrow$).
+
+- This shifts the Phillips curve down immediately.
+    
+- Result: Disinflation with less unemployment pain.
+    
+- _History:_ Paul Volcker established this credibility in the 80s; Greenspan and Bernanke maintained it.
+
+---
+
 
 
 
