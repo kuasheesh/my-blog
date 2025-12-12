@@ -1076,11 +1076,13 @@ Central banks realized they can't easily count every dollar or rupee (Targeting 
     * If the economy is freezing (recession), make money cheap (Cut Rates).
 
 #### 🥊 The Heavyweights: Fed vs. RBI
-| Feature | **🇺🇸 The Federal Reserve** | **🇮🇳 Reserve Bank of India** |
-| :--- | :--- | :--- |
-| **The Key Tool** | **Fed Funds Rate** (Inter-bank lending rate) | **Repo Rate** (Rate RBI lends to banks) |
+
+| **Feature**      | **🇺🇸 The Federal Reserve**                         | **🇮🇳 Reserve Bank of India**                                                           |
+| ---------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **The Key Tool** | **Fed Funds Rate** (Inter-bank lending rate)         | **Repo Rate** (Rate RBI lends to banks)                                                  |
 | **How it works** | Fed pays interest on reserves (IORB) to set a floor. | RBI uses a "Corridor" system (Repo is the center; MSF is the ceiling; SDF is the floor). |
-| **The Goal** | **Dual Mandate:** Stable Prices + Max Employment. | **Primary:** Price Stability (4%). **Secondary:** Growth. |
+| **The Goal**     | **Dual Mandate:** Stable Prices + Max Employment.    | **Primary:** Price Stability (4%). **Secondary:** Growth.                                |
+
 
 > **Analogy:** Think of the **Repo Rate** as the master volume knob for the Indian economy. When Shaktikanta Das (RBI Governor) turns it up, home loans, car loans, and business loans all get louder (more expensive), quieting down the party (inflation).
 
