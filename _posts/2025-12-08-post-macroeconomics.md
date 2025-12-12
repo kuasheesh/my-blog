@@ -759,6 +759,9 @@ In a flexible system, the exchange rate is a price determined by the **Foreign E
     
 - **Demand for Dollars ($D$):** Comes from Foreigners wanting to buy US goods/assets (they sell Yen/Euros to get $\$$).
     
+<img width="796" height="581" alt="image" src="https://github.com/user-attachments/assets/b847220d-a76a-458d-bebf-cce6ba1d3594" />
+
+
 
 ### 🔑 Macroeconomic Shifters
 
@@ -770,7 +773,9 @@ What moves the curves?
 |**Foreign Output ($Y_{For}$)**|They buy more exports $\rightarrow$ Demand for $\$$ shifts OUT.|**Appreciates ($\uparrow$)**|**Rises** (we export more)|
 |**Real Interest Rate ($r$)**|US assets attractive $\rightarrow$ Demand $\$$ UP, Supply $\$$ DOWN.|**Appreciates ($\uparrow$)**|**Falls** (strong $\$$ hurts exports)|
 
----
+<img width="832" height="954" alt="image" src="https://github.com/user-attachments/assets/b4c64679-e439-4d8b-8fd0-d9d15a89ff6c" />
+
+
 
 ## 3 The Open-Economy IS-LM Model
 
@@ -790,6 +795,8 @@ $$S^d - I^d = NX$$
     
 3. To balance the market, the real interest rate ($r$) must adjust.
     
+<img width="1085" height="708" alt="image" src="https://github.com/user-attachments/assets/fb931a75-dc33-4296-a551-c920a629d785" />
+
 
 ### Shifting the Open IS Curve
 
@@ -799,6 +806,7 @@ Any factor that increases Net Exports ($NX$)—_given_ output and interest rates
     
 - $\uparrow$ Shift in tastes toward domestic goods.
     
+<img width="1015" height="677" alt="image" src="https://github.com/user-attachments/assets/f81ff71f-2b10-4931-a384-b6cc0e9b4332" />
 
 ---
 
@@ -822,6 +830,8 @@ How do government actions ripple through the global economy?
         
 - **Effect on Foreign Partner:** Our imports are their exports. Their IS curve shifts **UP**. They experience a boom and inflation.
     
+<img width="630" height="924" alt="image" src="https://github.com/user-attachments/assets/ebdc84b7-b57d-4906-b639-62ce2af43bf9" />
+
 
 ### Scenario B: Monetary Contraction (Money Supply $M \downarrow$)
 
@@ -837,6 +847,7 @@ How do government actions ripple through the global economy?
         
 - **Effect on Foreign Partner:** Their exports fall. Their IS curve shifts **DOWN**. **Result:** A recession in the US can cause a recession abroad.
     
+<img width="649" height="928" alt="image" src="https://github.com/user-attachments/assets/1b66bc31-decf-4b15-aa3c-9fc4789d5957" />
 
 ---
 
@@ -851,11 +862,16 @@ In this system, the government (Central Bank) sets the price of currency officia
     - _The Fix:_ The Central Bank must BUY its own currency (using foreign reserves).
         
     - _The Danger:_ **Speculative Run.** If investors think the bank is running out of reserves, they panic-sell the currency, forcing a devaluation.
+
+      <img width="613" height="430" alt="image" src="https://github.com/user-attachments/assets/1fc73b93-8deb-415a-a40a-27c492c35329" />
+
         
 - **Undervalued Exchange Rate:** The Official Rate < Fundamental Market Value.
     
     - _The Fix:_ The Central Bank SELLS its own currency (accumulating reserves).
         
+<img width="626" height="429" alt="image" src="https://github.com/user-attachments/assets/cd5bf1e8-4e33-4e15-bc44-f5c948415e07" />
+
 
 ### Policy Constraints: The "Trilemma"
 
