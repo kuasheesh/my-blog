@@ -1,4 +1,3 @@
-
 ---
 title: "Economics Detailed Syllabus"
 date: 2025-12-14
