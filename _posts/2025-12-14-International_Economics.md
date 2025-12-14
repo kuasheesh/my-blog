@@ -5,13 +5,13 @@
 
 ### 1. The Core Philosophy
 
-**Author:** David Ricardo (Classic work: _On the Principles of Political Economy and Taxation_, 1817).1
+**Author:** David Ricardo (Classic work: _On the Principles of Political Economy and Taxation_, 1817).
 
 The Big Idea:
 
 Most people think trade only happens when you are better than someone else at making something (Absolute Advantage). Ricardo said "No!"
 
-Even if Country A is **better at everything** than Country B, they should still trade.2 Why? Because of **Opportunity Cost**. It is not about who is faster; it is about who gives up less to do it.3
+Even if Country A is **better at everything** than Country B, they should still trade.2 Why? Because of **Opportunity Cost**. It is not about who is faster; it is about who gives up less to do it.
 
 > 💡 The "Super-Lawyer" Analogy:
 > 
@@ -21,7 +21,7 @@ Even if Country A is **better at everything** than Country B, they should still 
 >     
 > - **No.** Every hour she spends typing, she loses $500 she could have made arguing a case. The secretary only loses $20.
 >     
-> - **Verdict:** The lawyer has a _Comparative Advantage_ in law; the secretary has a _Comparative Advantage_ in typing (even if he is slower).4
+> - **Verdict:** The lawyer has a _Comparative Advantage_ in law; the secretary has a _Comparative Advantage_ in typing (even if he is slower).
 >     
 
 ---
@@ -104,7 +104,7 @@ Vietnam's Line: Flatter slope. They are "rice-heavy."
 
 Economics models are perfect; the real world is messy. Ricardo assumed:
 
-- **2x2x1 Model:** 2 countries, 2 commodities, 1 factor of production (Labor).5
+- **2x2x1 Model:** 2 countries, 2 commodities, 1 factor of production (Labor).
     
 - **Perfect Mobility:** Labor moves instantly between making cars and rice within a country.
     
@@ -117,9 +117,9 @@ Economics models are perfect; the real world is messy. Ricardo assumed:
 
 **The Famous Praise:**
 
-> "That it is logically true need not be argued before a mathematician; that it is not trivial is attested by the thousands of important and intelligent men who have never been able to grasp the doctrine for themselves or to believe it after it was explained to them."6
+> "That it is logically true need not be argued before a mathematician; that it is not trivial is attested by the thousands of important and intelligent men who have never been able to grasp the doctrine for themselves or to believe it after it was explained to them."
 > 
-> — Paul Samuelson (Nobel Laureate)7
+> — Paul Samuelson (Nobel Laureate)
 
 **The Modern Criticism:**
 
@@ -135,4 +135,18 @@ Economics models are perfect; the real world is messy. Ricardo assumed:
 - **Result:** Specialization + Trade = Global Efficiency.
     
 - **Lesson:** Don't try to do everything. Focus on your strength, and trade for your weakness.
+
+
+
     
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
