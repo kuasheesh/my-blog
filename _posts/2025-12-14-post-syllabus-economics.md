@@ -1,4 +1,14 @@
 
+---
+title: "Economics Detailed Syllabus"
+date: 2025-12-14
+categories:
+  - blog
+tags:
+---
+
+
+
 ### **1. Microeconomics**
 
 - **A. Theory of Consumer Behavior**
