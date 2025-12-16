@@ -1,5 +1,5 @@
 ---
-title: "The Core Pivot: Redefining Sustainability"
+title: "Development & Environmental Economics"
 date: 2025-12-10
 categories:
   - blog
@@ -10,7 +10,7 @@ tags:
 
 
 
-### 🔄 The Core Pivot: Redefining "Sustainability"
+## 🔄 The Core Pivot: Redefining "Sustainability"
 
 Most people define sustainability simply as "being eco-friendly." Ritchie argues this is incomplete. True sustainability is an equation with two non-negotiable halves.
 
@@ -107,3 +107,23 @@ Her critique is that we often forget the **"needs of the present"** part.
     
 
 **True sustainability is solving both simultaneously.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
