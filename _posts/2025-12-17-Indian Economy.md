@@ -17,10 +17,8 @@ The Indian economy is often described as a **"Mixed, Developing, and Dualistic"*
 | Sector | Metaphor | Contribution to GDP | Employment Share | Key Characteristics |
 | --- | --- | --- | --- | --- |
 | **Primary** (Agriculture) | **The Spine** 🌾 | ~17.7% | ~44-46% | **High Dependency:** Supports half the population but contributes <1/5th of income. <br>
-
 <br>**Rain-fed:** Heavily dependent on Monsoons. |
 | **Secondary** (Industry) | **The Engine** 🏭 | ~27.6% | ~28% | **Stagnant Share:** Has hovered around 25-30% for decades. <br>
-
 <br>**"Make in India":** Pushing for growth in manufacturing & construction. |
 | **Tertiary** (Services) | **The Booster** 🚀 | ~54.7% | ~31% | **The Driver:** Fastest growing sector (IT, Finance, Telecom). <br>
 
