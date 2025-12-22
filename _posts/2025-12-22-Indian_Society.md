@@ -1,20 +1,20 @@
 # 🇮🇳 Indian Society: A Mosaic of Tradition & Modernity
 
-> "India is not a nation, nor a country. It is a subcontinent of nationalities."1
+> "India is not a nation, nor a country. It is a subcontinent of nationalities."
 > 
 > — Raja Rao
 
-Indian society is often described not as a "melting pot" (where differences disappear) but as a **"Salad Bowl"** or a **"Mosaic,"** where distinct elements coexist to form a beautiful whole.2 It is defined by the unique interplay of **Continuity and Change**.3
+Indian society is often described not as a "melting pot" (where differences disappear) but as a **"Salad Bowl"** or a **"Mosaic,"** where distinct elements coexist to form a beautiful whole. It is defined by the unique interplay of **Continuity and Change**.
 
 ---
 
 ### 1. Multi-Ethnic and Multi-Cultural (The "Museum of Cults")
 
-Indian society is characterized by immense diversity.4 It is a synthesis of various races, tribes, and ethnic groups (Aryan, Dravidian, Mongoloid, etc.).
+Indian society is characterized by immense diversity. It is a synthesis of various races, tribes, and ethnic groups (Aryan, Dravidian, Mongoloid, etc.).
 
 - **Linguistic Diversity:** India is a "Tower of Babel."
     
-    - **22** Scheduled Languages.5
+    - **22** Scheduled Languages.
         
     - **100s** of dialects.
         
@@ -29,20 +29,20 @@ Indian society is characterized by immense diversity.4 It is a synthesis of vari
 
 ---
 
-### 2. Hierarchy: The Caste System (Varna & Jati)6
+### 2. Hierarchy: The Caste System (Varna & Jati)
 
 A unique form of social stratification found nowhere else in the world in this specific form. It determines social status based on birth.7
 
 - **Segmental Division:** Society is divided into closed groups.8
     
-- **Hierarchy:** Ranked status (Brahmin 9$\rightarrow$ Kshatriya 10$\rightarrow$ Vaishya 11$\rightarrow$ Shudra).12
+- **Hierarchy:** Ranked status (Brahmin $\rightarrow$ Kshatriya $\rightarrow$ Vaishya $\rightarrow$ Shudra).
     
-- **Endogamy:** Marriage within the caste (the strictest rule).13
+- **Endogamy:** Marriage within the caste (the strictest rule).
     
-- **Purity & Pollution:** The defining spiritual concept behind the hierarchy.14
+- **Purity & Pollution:** The defining spiritual concept behind the hierarchy.
     
 
-> **Linkage:** Caste 15$\leftrightarrow$ Occupation.16 Traditionally, your caste defined your job.17 Today, this link is breaking (e.g., a Brahmin owning a shoe shop), but **Endogamy** remains strong.
+> **Linkage:** Caste $\leftrightarrow$ Occupation. Traditionally, your caste defined your job. Today, this link is breaking (e.g., a Brahmin owning a shoe shop), but **Endogamy** remains strong.
 
 ---
 
@@ -50,9 +50,9 @@ A unique form of social stratification found nowhere else in the world in this s
 
 The bedrock of Indian social structure. It is more than a residence; it is a welfare agency.
 
-- **Structure:** Patriarchal (Father is head - _Karta_).18
+- **Structure:** Patriarchal (Father is head - _Karta_).
     
-- **Economy:** Joint property and common kitchen.19
+- **Economy:** Joint property and common kitchen.
     
 - **Values:** Collectivism over Individualism. "We" before "I".
     
@@ -69,7 +69,7 @@ This is the **Soul of Indian Society**. despite the immense differences in food,
 
 - **Geo-Political Unity:** The concept of _Bharatvarsha_.
     
-- **Cultural Unity:** Pilgrimage sites (_Dhams_) spread across all four corners bind the land spiritually.20
+- **Cultural Unity:** Pilgrimage sites (_Dhams_) spread across all four corners bind the land spiritually.
     
 - **Emotional Unity:** Nationalism and shared history of the freedom struggle.
     
@@ -82,24 +82,24 @@ This is the **Soul of Indian Society**. despite the immense differences in food,
 
 India is the birthplace of four major religions (Hinduism, Buddhism, Jainism, Sikhism) and a shelter for others (Islam, Christianity, Zoroastrianism).
 
-- **Dharma:** The moral duty/law that governs life.21
+- **Dharma:** The moral duty/law that governs life.
     
-- **Karma:** The cycle of cause and effect.22
+- **Karma:** The cycle of cause and effect.
     
-- **Moksha/Nirvana:** The ultimate goal of liberation.23
+- **Moksha/Nirvana:** The ultimate goal of liberation.
     
-- **Secularism (Indian Version):** Unlike Western secularism (separation of Church and State), Indian secularism means **"Sarva Dharma Sambhav"** (Equal respect for all religions).24
+- **Secularism (Indian Version):** Unlike Western secularism (separation of Church and State), Indian secularism means **"Sarva Dharma Sambhav"** (Equal respect for all religions).
     
 
 ---
 
 ### 6. Rural-Agrarian Base
 
-Despite rapid urbanization, "India lives in her villages" (Gandhi).25
+Despite rapid urbanization, "India lives in her villages" (Gandhi).
 
 - **~65%** of the population is still rural.
     
-- **Jajmani System:** An ancient economic system of exchanging goods for services between different castes in villages (now largely defunct but historically significant).26
+- **Jajmani System:** An ancient economic system of exchanging goods for services between different castes in villages (now largely defunct but historically significant).
     
 
 ---
@@ -121,7 +121,7 @@ Indian society is currently in a state of flux, balancing ancient traditions wit
 
 ### 🔍 Analytical Linkages
 
-- **Democracy & Caste:** Instead of disappearing, caste has evolved into a political pressure group (**Casteism**).27
+- **Democracy & Caste:** Instead of disappearing, caste has evolved into a political pressure group (**Casteism**).
     
 - **Globalization & Family:** Western individualism is challenging the traditional authority of the _Karta_ in joint families.
     
@@ -185,17 +185,11 @@ India is a linguist's paradise (and nightmare!).
     
 
 The Four Language Families:
-
 | Family | Region | Examples |
-
 | :--- | :--- | :--- |
-
 | Indo-Aryan (78%) | North, Central, West | Hindi, Bengali, Marathi, Punjabi |
-
 | Dravidian (20%) | South | Tamil, Telugu, Kannada, Malayalam |
-
 | Austro-Asiatic | Central Tribals, NE | Santhali, Khasi, Munda |
-
 | Tibeto-Burman | Himalayas, North East | Bodo, Manipuri, Ladakhi |
 
 > **Linkage:** Language $\rightarrow$ State Borders. (States in India were reorganized in 1956 based on language).
